@@ -1,3 +1,3 @@
-module github.com/swaggo/files/v2
+module github.com/origadmin/swaggo-files
 
 go 1.16
